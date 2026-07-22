@@ -1185,7 +1185,7 @@ margin-bottom:20px;
     margin-top: 40px;
 }
 
-.learning-card{
+.learning{
     background: rgba(255,255,255,0.08);
     border: 2px solid #0ea5e9;
     border-radius: 20px;
@@ -1199,12 +1199,12 @@ margin-bottom:20px;
     box-shadow: 0 5px 15px rgba(14,165,233,0.25);
 }
 
-.learning-card:hover{
+.learning:hover{
     background: linear-gradient(135deg,#0ea5e9,#2563eb);
     transform: translateY(-8px);
     box-shadow: 0 12px 25px rgba(37,99,235,0.45);
 }
 
-.learning-card br{
+.learning br{
     margin-bottom: 10px;
 }
